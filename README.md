@@ -1,1 +1,2 @@
-# CS310 Smart Job Interviewer
+# CS310 Project
+Smart Job Interviewer
